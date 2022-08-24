@@ -1,0 +1,1 @@
+assignee = "carlos.neto.dev@gmail.com" AND Sprint = "OPS Sprint 1" AND issue not in addedToSprintAfterStart('2', 'OPS Sprint 1')
